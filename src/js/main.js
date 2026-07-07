@@ -1,0 +1,4 @@
+function testeGrunt() {
+    console.log("Grunt funcionando perfeitamente!");
+}
+testeGrunt();
